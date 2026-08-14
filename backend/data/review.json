@@ -1,0 +1,18 @@
+[
+    {
+        "id": "sample-review-1",
+        "movieTitle": "Spider-Man: Into the Spider-Verse",
+        "rating": 5,
+        "reviewText": "The animation is creative, the soundtrack is great, and Miles feels like a genuinely relatable hero.",
+        "reviewerName": "Amanda",
+        "createdAt": "2026-07-29T18:00:00.000Z"
+    },
+    {
+        "id": "sample-review-2",
+        "movieTitle": "The Hunger Games",
+        "rating": 4,
+        "reviewText": "A strong adaptation with memorable performances and a tense story that holds up well.",
+        "reviewerName": "Movie Fan",
+        "createdAt": "2026-07-28T18:00:00.000Z"
+    }
+]
