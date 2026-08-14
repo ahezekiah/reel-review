@@ -51,14 +51,14 @@ export default async function HomePage() {
       <section className="section-heading">
         <div>
           <p className="eyebrow">
-            Recently added
+            Recently Added
           </p>
 
-          <h2>Latest reviews</h2>
+          <h2>Latest Reviews</h2>
         </div>
 
         <Link href="/reviews">
-          View all →
+          View All →
         </Link>
       </section>
 

@@ -4,10 +4,10 @@ export default function AddReviewPage() {
     return (
         <section className="page-section narrow">
             <p className="eyebrow">
-                Add to the collection
+                Add to the Collection
             </p>
 
-            <h1>Write a movie review</h1>
+            <h1>Write a Movie Review</h1>
 
             <p className="page-intro">
                 Give the movie a rating from 1–5 and

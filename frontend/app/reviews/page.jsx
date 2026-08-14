@@ -21,7 +21,7 @@ export default async function ReviewsPage({
                 The full collection
             </p>
 
-            <h1>All reviews</h1>
+            <h1>All Reviews</h1>
 
             <p className="page-intro">
                 Every saved review is loaded from the

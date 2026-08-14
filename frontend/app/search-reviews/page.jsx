@@ -7,7 +7,7 @@ export default function SearchReviewsPage() {
                 Find an opinion
             </p>
 
-            <h1>Search reviews</h1>
+            <h1>Search Reviews</h1>
 
             <p className="page-intro">
                 Enter any part of a movie title.
