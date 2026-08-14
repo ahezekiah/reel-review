@@ -22,5 +22,13 @@
     "reviewText": "It was a pretty good horror movie. Given that it was made in the 1990s.",
     "reviewerName": "Amanda H.",
     "createdAt": "2026-08-14T12:16:08.267Z"
+  },
+  {
+    "id": "4fa576cd-bc07-4380-a687-9d827bd563ba",
+    "movieTitle": "Avengers: Endgame",
+    "rating": 5,
+    "reviewText": "IT WAS ABSOLUTE PEAK!!! Wish I could experience it the same way I did in the theaters.",
+    "reviewerName": "Marvel Fan",
+    "createdAt": "2026-08-14T12:20:27.053Z"
   }
 ]

@@ -362,6 +362,7 @@ textarea {
     1px solid var(--border);
   color: var(--muted);
   padding: 1.3rem 0;
+  text-align: center;
 }
 
 @media (max-width: 720px) {
