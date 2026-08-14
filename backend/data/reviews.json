@@ -1,18 +1,26 @@
 [
-    {
-        "id": "sample-review-1",
-        "movieTitle": "Spider-Man: Into the Spider-Verse",
-        "rating": 5,
-        "reviewText": "The animation is creative, the soundtrack is great, and Miles feels like a genuinely relatable hero.",
-        "reviewerName": "Amanda",
-        "createdAt": "2026-07-29T18:00:00.000Z"
-    },
-    {
-        "id": "sample-review-2",
-        "movieTitle": "The Hunger Games",
-        "rating": 4,
-        "reviewText": "A strong adaptation with memorable performances and a tense story that holds up well.",
-        "reviewerName": "Movie Fan",
-        "createdAt": "2026-07-28T18:00:00.000Z"
-    }
+  {
+    "id": "sample-review-1",
+    "movieTitle": "Spider-Man: Into the Spider-Verse",
+    "rating": 5,
+    "reviewText": "The animation is creative, the soundtrack is great, and Miles feels like a genuinely relatable hero.",
+    "reviewerName": "Amanda",
+    "createdAt": "2026-07-29T18:00:00.000Z"
+  },
+  {
+    "id": "sample-review-2",
+    "movieTitle": "The Hunger Games",
+    "rating": 4,
+    "reviewText": "A strong adaptation with memorable performances and a tense story that holds up well.",
+    "reviewerName": "Movie Fan",
+    "createdAt": "2026-07-28T18:00:00.000Z"
+  },
+  {
+    "id": "47a755ea-7115-4ed8-8c88-75551948d16b",
+    "movieTitle": "Silence of the Lambs",
+    "rating": 3,
+    "reviewText": "It was a pretty good horror movie. Given that it was made in the 1990s.",
+    "reviewerName": "Amanda H.",
+    "createdAt": "2026-08-14T12:16:08.267Z"
+  }
 ]

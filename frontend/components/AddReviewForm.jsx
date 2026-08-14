@@ -162,8 +162,8 @@ export default function AddReviewForm() {
                 disabled={isSubmitting}
             >
                 {isSubmitting
-                    ? 'Saving...'
-                    : 'Save Review'}
+                    ? 'Submitting...'
+                    : 'Submit Review'}
             </button>
         </form>
     );
