@@ -5,6 +5,7 @@ import {
     addReview,
     getReviews
 } from './reviewStore.js';
+import 'dotenv/config';
 
 const app = express();
 
